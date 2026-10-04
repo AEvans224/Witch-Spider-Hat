@@ -6,12 +6,12 @@ Bill of Materials:
 - Buck Converter (QTY 2)
 - Switch
 - Fuse
-- Motor Driver
+- Motor Driver (Dual TB6612FNG (1A))
 - Motor
-- Microcontroller
-- 3D Printer Filament
+- Microcontroller (Arduino Nano)
+- 3D Printer Filament (Bambu Labs PLA)
 - Clear string
-- Glue
+- Glue (Gorilla Glue)
 - Witch's Hat
 
 3D Print Files:
