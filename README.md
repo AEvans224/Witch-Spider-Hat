@@ -32,7 +32,7 @@ The connections summary section of the wiring diagram is correct. ChatGPT helped
 ## Assembly:
 The assembly should look like the CAD model above. Use gorilla glue to secure the spools onto the shaft. Use the 3D printed cylindrical stubs to connect the hoop to the robotic hat. The hoop is attached to the hat by sewing strong thread through the small four holes around the brim or gluing the hoop to the witches hat brim. Insert the fishing wire through the guides onto the spool and glue the wire to the spools. Thread the other side of the fishing wire through the coffee straws and off the edge of the witches hat.  
 
-<img width="4284" height="5712" alt="IMG_5016" src="https://github.com/user-attachments/assets/1981280d-ce49-4a56-8267-890ca1ca9aa6" />
+<img width="1500" height="2000" alt="IMG_5016" src="https://github.com/user-attachments/assets/1981280d-ce49-4a56-8267-890ca1ca9aa6" />
 
 ## Software:
 The software is written in the Arduino C++ file type .ino. The speed and time variables will change the spider's distance and speed. As a note, the type of motor used does not "remember" the last position, so it is always going to start over the code. Verify that the spiders are in the furthest down position before turning off the power to the system. 
